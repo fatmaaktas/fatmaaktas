@@ -15,9 +15,9 @@
 
 
 <p align="center">
-    🔭 I’m currently working on Patika Bootcamp Acceleration Program
-    🌱 I’m currently learning JavaScript, TypeScript, Nodejs, Angular
-    👩🏻‍💻 I constantly improving myself in BackEnd Development
+    🔭 I’m currently working on Patika Bootcamp Acceleration Program <br>
+    🌱 I’m currently learning JavaScript, TypeScript, Nodejs, Angular <br>
+    👩🏻‍💻 I constantly improving myself in BackEnd Development <br>
     📫 How to reach me: <a href="mailto:fatmaaktas@mail.com">fatmaaktas@mail.com</a>
 </p>
 
