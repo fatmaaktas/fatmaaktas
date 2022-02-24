@@ -17,7 +17,7 @@
                                     🔭 I’m currently working on Patika Bootcamp Acceleration Program
                                     🌱 I’m currently learning JavaScript, TypeScript, Nodejs, Angular
                                     👩🏻‍💻 I constantly improving myself in Backend Development
-                                    📫 How to reach me: <a href="mailto:fatmaaktas@mail.com">fatmaaktas@mail.com</a><br>
+                                    📫 How to reach me: <a href="mailto:fatmaaktas@mail.com">fatmaaktas@mail.com</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatmaaktas&label=Profile%20views&color=0e75b6&style=flat" alt="fatmaaktas" /> </p>
 
