@@ -4,7 +4,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/fatma-aktaş-262ba0191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatma-aktaş-262ba0191/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aktasfatma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatma-aktaş-262ba0191/" height="30" width="40" /></a>
 <a href="https://medium.com/@fatmaaaktass10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatmaaaktass10" height="30" width="40" /></a>
 </p>
 
