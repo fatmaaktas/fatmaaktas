@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 <h3 align="center">A passionate backend developer from Istanbul/Turkey</h3>
 
+<p float="center">
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=fatmaaktas&theme=dracula&count_private=true&hide=issues" alt="F.A's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaktas&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
