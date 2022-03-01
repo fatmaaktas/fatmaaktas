@@ -34,16 +34,15 @@
     <code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
     <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" height="42"></code>
     <br>
-
     👩🏻‍💻 I constantly improving myself in BackEnd Development <br>
-    
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-ar21.svg"></code>
-    <br>
     📫 How to reach me: <a href="mailto:fatmaaktas@mail.com">fatmaaktas@mail.com</a>
 </p>
 
+<p align="center">
+    <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
+    <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+    <br>
+</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatmaaktas&label=Profile%20views&color=0e75b6&style=flat" alt="fatmaaktas" /> </p>
