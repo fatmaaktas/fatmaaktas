@@ -17,9 +17,14 @@
 <p align="center">
     🔭 I’m currently working on Patika Bootcamp Acceleration Program <br>
     🌱 I’m currently learning JavaScript, TypeScript, Nodejs, Angular <br>
+    <code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+    <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" height="42"></code>
+    <br>
     👩🏻‍💻 I constantly improving myself in BackEnd Development <br>
     📫 How to reach me: <a href="mailto:fatmaaktas@mail.com">fatmaaktas@mail.com</a>
 </p>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fatmaaktas&label=Profile%20views&color=0e75b6&style=flat" alt="fatmaaktas" /> </p>
 
