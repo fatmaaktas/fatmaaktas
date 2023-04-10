@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from Istanbul/Turkey</h3>
 <h3 align="center"> 💼 Job
 
-I'm working as a Frontend & Web Developer in [Bisod](https://www.bisod.com.tr/)
 </h3>
 <p float="center" align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaktas&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
