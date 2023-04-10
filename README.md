@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 <h3 align="center">A passionate fullstack developer from Istanbul/Turkey</h3>
-<h3 align="center"> 💼 Job
 
 </h3>
 <p float="center" align="center">
