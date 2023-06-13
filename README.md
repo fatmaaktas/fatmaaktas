@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 <h3 align="center">A passionate fullstack developer from Istanbul/Turkey</h3>
 
-</h3>
-<p float="center" align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaktas&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
-</p>
+// </h3>
+// <p float="center" align="center">
+//  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaktas&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
+// </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
